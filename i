@@ -1,4 +1,5 @@
 #!/usr/bin/env bash
+# This script is for install Oh-My-Bash
 
 # Checks the minium version of bash (v3.2) installed,
 # stops the installation if check fails
